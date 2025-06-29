@@ -1,0 +1,14 @@
+C:\Users\User5537\source\repos\PeerA\PeerB\bin\Debug\net8.0\PeerB.exe
+C:\Users\User5537\source\repos\PeerA\PeerB\bin\Debug\net8.0\PeerB.deps.json
+C:\Users\User5537\source\repos\PeerA\PeerB\bin\Debug\net8.0\PeerB.runtimeconfig.json
+C:\Users\User5537\source\repos\PeerA\PeerB\bin\Debug\net8.0\PeerB.dll
+C:\Users\User5537\source\repos\PeerA\PeerB\bin\Debug\net8.0\PeerB.pdb
+C:\Users\User5537\source\repos\PeerA\PeerB\obj\Debug\net8.0\PeerB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User5537\source\repos\PeerA\PeerB\obj\Debug\net8.0\PeerB.AssemblyInfoInputs.cache
+C:\Users\User5537\source\repos\PeerA\PeerB\obj\Debug\net8.0\PeerB.AssemblyInfo.cs
+C:\Users\User5537\source\repos\PeerA\PeerB\obj\Debug\net8.0\PeerB.csproj.CoreCompileInputs.cache
+C:\Users\User5537\source\repos\PeerA\PeerB\obj\Debug\net8.0\PeerB.dll
+C:\Users\User5537\source\repos\PeerA\PeerB\obj\Debug\net8.0\refint\PeerB.dll
+C:\Users\User5537\source\repos\PeerA\PeerB\obj\Debug\net8.0\PeerB.pdb
+C:\Users\User5537\source\repos\PeerA\PeerB\obj\Debug\net8.0\PeerB.genruntimeconfig.cache
+C:\Users\User5537\source\repos\PeerA\PeerB\obj\Debug\net8.0\ref\PeerB.dll

@@ -1,0 +1,15 @@
+C:\Users\User5537\source\repos\PeerA\PeerA\bin\Debug\net8.0\PeerA.exe
+C:\Users\User5537\source\repos\PeerA\PeerA\bin\Debug\net8.0\PeerA.deps.json
+C:\Users\User5537\source\repos\PeerA\PeerA\bin\Debug\net8.0\PeerA.runtimeconfig.json
+C:\Users\User5537\source\repos\PeerA\PeerA\bin\Debug\net8.0\PeerA.dll
+C:\Users\User5537\source\repos\PeerA\PeerA\bin\Debug\net8.0\PeerA.pdb
+C:\Users\User5537\source\repos\PeerA\PeerA\obj\Debug\net8.0\PeerA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User5537\source\repos\PeerA\PeerA\obj\Debug\net8.0\PeerA.AssemblyInfoInputs.cache
+C:\Users\User5537\source\repos\PeerA\PeerA\obj\Debug\net8.0\PeerA.AssemblyInfo.cs
+C:\Users\User5537\source\repos\PeerA\PeerA\obj\Debug\net8.0\PeerA.csproj.CoreCompileInputs.cache
+C:\Users\User5537\source\repos\PeerA\PeerA\obj\Debug\net8.0\PeerA.dll
+C:\Users\User5537\source\repos\PeerA\PeerA\obj\Debug\net8.0\refint\PeerA.dll
+C:\Users\User5537\source\repos\PeerA\PeerA\obj\Debug\net8.0\PeerA.pdb
+C:\Users\User5537\source\repos\PeerA\PeerA\obj\Debug\net8.0\PeerA.genruntimeconfig.cache
+C:\Users\User5537\source\repos\PeerA\PeerA\obj\Debug\net8.0\ref\PeerA.dll
+C:\Users\User5537\source\repos\PeerA\PeerA\bin\Debug\net8.0\Shared\arb.txt

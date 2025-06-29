@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeerA", "PeerA\PeerA.csproj", "{B0CFAD9A-9821-4FB7-BA1B-29FE904BC79F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeerB", "PeerB\PeerB.csproj", "{B77FF23A-0568-471C-9F0C-7C2E70D04610}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0CFAD9A-9821-4FB7-BA1B-29FE904BC79F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0CFAD9A-9821-4FB7-BA1B-29FE904BC79F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0CFAD9A-9821-4FB7-BA1B-29FE904BC79F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0CFAD9A-9821-4FB7-BA1B-29FE904BC79F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B77FF23A-0568-471C-9F0C-7C2E70D04610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B77FF23A-0568-471C-9F0C-7C2E70D04610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B77FF23A-0568-471C-9F0C-7C2E70D04610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B77FF23A-0568-471C-9F0C-7C2E70D04610}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC0227D4-BAF9-44A0-8B02-757E71555A9E}
+	EndGlobalSection
+EndGlobal
